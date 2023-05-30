@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey":"hdxusank",
+    "db":"mongodb://localhost/Ecommerce"
+}
